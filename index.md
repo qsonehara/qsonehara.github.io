@@ -10,8 +10,11 @@ researchmap: [https://researchmap.jp/qsonehara/?lang=en](https://researchmap.jp/
 Statistical genetics / Omics data analysis / Disease genetics / Cancer biology / Functional genomics
 
 ## Education
-- [Sep 2022] Ph.D. (Medicine), Osaka University
-- [Mar 2017] B.S. (Medicine), M.D., The University of Tokyo
+- [Sep 2022] PhD of Medicine, Osaka University Graduate School of Medicine, Suita, Japan (mentored by Prof. Yukinori Okada)
+- [Mar 2017] MD, The University of Tokyo, Tokyo, Japan
+
+## Clinical Residencies
+- [Apr 2017 - Mar 2019] The University of Tokyo Hospital, Tokyo, Japan
 
 ## Selected Publications
 - **Sonehara K**, Kimura Y, Nakano Y et al. A common deletion at BAK1 reduces enhancer activity and confers risk of intracranial germ cell tumors. *Nat Commun* 13, 4478 (2022). https://doi.org/10.1038/s41467-022-32005-9
