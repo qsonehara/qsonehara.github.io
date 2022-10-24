@@ -4,7 +4,7 @@ email: `qsonehara(at)m.u-tokyo.ac.jp`
 Visiting academic staff, Department of Statistical Genetics, Osaka University Graduate School of Medicine  
 email: `qsonehara(at)sg.med.osaka-u.ac.jp`  
 Twitter: [@qsonehara](https://twitter.com/qsonehara)  
-researchmap: https://researchmap.jp/qsonehara/?lang=en  
+researchmap: [https://researchmap.jp/qsonehara/?lang=en](https://researchmap.jp/qsonehara/?lang=en)  
 
 ## Reserach Interests
 Statistical genetics / Omics data analysis / Disease genetics / Cancer biology / Functional genomics
